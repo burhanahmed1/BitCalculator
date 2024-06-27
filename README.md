@@ -7,3 +7,4 @@
 3. Then open the LogicWorks folder and click on the LogicWorks.exe file.
 4. LogicWorks will start running.
 5. Browse BitCalculator.cct from system and open it in LogicWorks.
+
